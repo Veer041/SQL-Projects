@@ -1,6 +1,6 @@
 # Netflix Data Analysis - SQL Project
 
-![Netflix Data Analysis](https://your-link-to-image.com/netflix-data-analysis.png)  <!-- Replace with your image link -->
+![Netflix Data Analysis]([https://your-link-to-image.com/netflix-data-analysis.png](https://github.com/Veer041/SQL-Projects/blob/main/Netflix%20DataAnalysis%20SQL%20Project/Netflix_logo.jpg)) 
 
 ## Project Overview
 
