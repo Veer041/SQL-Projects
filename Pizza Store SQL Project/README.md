@@ -1,6 +1,6 @@
 # Pizza Store Sales Analysis - SQL Project
 
-![Pizza Store Sales](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Faesthetic-dripping-tasty-pizza-slice-generative-ai_41977164.htm&psig=AOvVaw22CK6FVqj9DN66YXId0acw&ust=1727814662547000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiR1q7B64gDFQAAAAAdAAAAABAa)  <!-- Replace with your image link -->
+![Pizza Store Sales](https://www.freepik.com/premium-ai-image/aesthetic-dripping-tasty-pizza-slice-generative-ai_41977164.htm) 
 
 ## Project Overview
 
